@@ -1,0 +1,24 @@
+title: "Willy's Blog"
+about: |
+  My name is Guillermo Facundo Colunga, but everyone calls me Willy. 
+  I'm a Software Engineer with an MSc in Computer Science, driven by
+  a lifelong passion for computers and their power to turn imagination
+  into reality. I love diving into tech blogs, exploring random GitHub
+  pull requests, and constantly learning from hands-on experience.
+  
+  Currently, I work as an Early Graduate Software Engineer in the
+  IT Monitoring team at CERN, where I help build and maintain systems
+  to monitor from the simplest web application to the world's largest
+  and most powerful particle accelerator.
+  
+  This blog reflects my personal thoughts and opinions.
+
+links:
+  - text: My Publications and Presentations
+    url: publications.html
+  - text: My GitHub Profile
+    url: https://github.com/thewillyhuman
+  - text: My CERN GitLab Profile
+    url: https://gitlab.cern.ch/gfacundo
+  - text: My X Profile
+    url: https://x.com/thewillyhuman

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ config.title }} - {{ post.title }}</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css">
+</head>
+<body>
+    <h1><a href="index.html">{{ config.title }}</a></h1>
+
+    <div class="container">
+        <div class="main-content">
+            <h2>{{ post.title }}</h2>
+            {{ post.content|safe }}
+        </div>
+        <div class="sidebar">
+            <h2>About Me</h2>
+            <div>
+                {% for paragraph in split(config.about, '\n\n') %}
+                    <p>{{ paragraph }}</p>
+                {% endfor %}
+            </div>
+            <h2>Links</h2>
+            <ul>
+                {% for link in config.links %}
+                    <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+
+    <footer>
+        <div>
+            <p>Guillermo Facundo Colunga</p>
+            <p>guillermo.facundo.colunga@gmail.com</p>
+        </div>
+        <div>
+            <p>Creative Commons 4.0</p>
+        </div>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <script>hljs.highlightAll();</script>
+</body>
+</html>

@@ -1,0 +1,84 @@
+publications:
+  - name: "Analyzing syntactic constructs of Java programs with machine learning"
+    authors:
+      - "F. Ortin"
+      - "G. Facundo"
+      - "M. Garcia"
+    date: 2023
+    link: "https://www.sciencedirect.com/science/article/pii/S0957417422024162"
+    description: "Expert Systems with Applications"
+  - name: "Extraccion y analisis de patrones sintacticos de programadores Java"
+    authors:
+      - "G. Facundo"
+    date: 2022
+    link: "https://digibuo.uniovi.es/dspace/handle/10651/64136"
+    description: "MSc Thesis/Report"
+  - name: "Mining common syntactic patterns used by Java programmers"
+    authors:
+      - "A. Losada"
+      - "G. Facundo"
+      - "M. Garcia"
+      - "F. Ortin"
+    date: 2022
+    link: "https://ieeexplore.ieee.org/abstract/document/9693559"
+    description: "IEEE Latin America Transactions"
+  - name: "Ontolo-CI: Continuous data validation with ShEx."
+    authors:
+      - "G.C. Publio"
+      - "J.E.L. Gayo"
+      - "G. Facundo"
+      - "P. Menendez"
+    date: 2022
+    link: "https://ceur-ws.org/Vol-3235/paper6.pdf"
+    description: "SEMANTiCS (Posters & Demos)"
+  - name: "ShEx-Lite: Automatic Generation of Domain Object Models from a Shape Expressions Subset"
+    authors:
+      - "G. Facundo"
+      - "A. Gonzalez"
+      - "E. Rubiera"
+      - "J.E.L. Gayo"
+    date: 2020
+    link: "https://digibuo.uniovi.es/dspace/bitstream/handle/10651/58501/2020_ShExLite_ISWC.pdf?sequence=1"
+    description: "CEUR Workshop Proceedings"
+  - name: "Automatic synchronization of RDF graphs representing ontologies and Wikibase instances"
+    authors:
+      - "A. Gonzalez"
+      - "G. Facundo"
+      - "E. Rubiera"
+    date: 2020
+    link: "https://digibuo.uniovi.es/dspace/bitstream/handle/10651/58684/paper-07.pdf?sequence=1"
+    description: "CEUR Workshop Proceedings"
+  - name: "ASIO: A research management system based on semantic technologies"
+    authors:
+      - "J.E.L. Gayo"
+      - "J. Barranquero"
+      - "G. Facundo"
+      - "A. Gonzalez"
+      - "E. Rubiera"
+      - "D. Ruiz"
+      - "P. Alvarez"
+    date: 2020
+    link: "https://d1wqtxts1xzle7.cloudfront.net/107482738/2020_ASIO_Damalos-libre.pdf?1700295802=&response-content-disposition=inline%3B+filename%3DASIO_a_Research_Management_System_based.pdf&Expires=1762205788&Signature=cjjoIqS3o~EhPiloRUYxULJBilgh6GxYbTt9lwwNd65IicYHtwvM4amV4duIVkBk1L3QtR6Mdfmn5qIJ0bkAvZnaRCnlCT7qGdCP8HiMTz88oI4SGBCg~b8XcuH6TTk~cTJj7DOvoigWPVMm-JwVCKIDPSKSLU9H7LETwbZ0hTMC1-usvlNRdZjysP-p4lSJkR4io3bGz8vJ3RK-YM00RSgSrjtJbSC88uptprhZZj4Y2PFgyk0aVa1Sp6wfpWm5I1YmNPJD3DXKC7C8DIR7jbb2MWFLIdpAFgaT4YnsqkwpBJ89D0zlZd3Mx4KLbS6V9ZEuYbRHr2TIUn7jPlRWaw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
+    description: "International Semantic Web Conference, ISWC2020"
+  - name: "Generacion automatica de modelos de dominio multilenguaje a traves de un subconjunto de shape expressions"
+    authors:
+      - "G. Facundo"
+    date: 2020
+    link: "https://digibuo.uniovi.es/dspace/handle/10651/63405"
+    description: "BSc Thesis/Report"
+talks:
+#  - title: "The Future of Machine Learning"
+#    event: "Tech Conference"
+#    date: "2022-11-15"
+#    link: "https://example.com/future-of-ml"
+#    summary: |
+#      An insightful talk on emerging trends and future directions in
+#      machine learning technologies.
+other:
+#  - type: "Workshop"
+#    title: "Data Science Bootcamp"
+#    date: "2023-05-20"
+#    link: "https://example.com/data-science-bootcamp"
+#    details: |
+#      An intensive workshop covering fundamental concepts and practical
+#      applications of data science.

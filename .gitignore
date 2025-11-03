@@ -1,0 +1,11 @@
+# Build output
+public/
+
+# Python
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
