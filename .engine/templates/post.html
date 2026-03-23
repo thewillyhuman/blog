@@ -11,6 +11,7 @@
     <div class="container">
         <div class="main-content">
             <h2>{{ post.title }}</h2>
+            <p class="post-date">{{ post.date.strftime('%B %d, %Y') }}</p>
             {{ post.content|safe }}
         </div>
         <div class="sidebar">
